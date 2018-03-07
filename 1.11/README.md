@@ -48,7 +48,7 @@ For an iterative version that goes down from n to 0 as opposed to my version, se
 The recursive method is just as straight forward as in Scheme.
 
 	// solution.go
-	package sicp1_11
+	package sicp111
 
 	func RecursiveF(n int) int {
 		if n < 3 {
@@ -81,7 +81,7 @@ but added a small overflow check that catches som errors.
 ## Test cases for Go answers
 
 	// solution_test.go
-	package sicp1_11
+	package sicp111
 
 	import "testing"
 	import "github.com/stretchr/testify/assert"

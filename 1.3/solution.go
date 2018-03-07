@@ -1,4 +1,4 @@
-package sicp1_3
+package sicp103
 
 /*
 Exercise 1.3: Define a procedure that takes three numbers

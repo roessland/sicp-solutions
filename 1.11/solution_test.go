@@ -1,4 +1,4 @@
-package sicp1_11
+package sicp111
 
 import "testing"
 import "github.com/stretchr/testify/assert"

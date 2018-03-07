@@ -1,4 +1,4 @@
-package sicp1_11
+package sicp111
 
 func RecursiveF(n int) int {
 	if n < 3 {

@@ -1,4 +1,4 @@
-package sicp1_3
+package sicp103
 
 import "testing"
 
