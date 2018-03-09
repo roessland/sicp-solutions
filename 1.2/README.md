@@ -1,4 +1,4 @@
-# SICP Exercise 1.2
+# SICP Exercise 1.2: Prefix form
 
 Translate the following expression into prefix form:
 

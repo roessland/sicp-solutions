@@ -1,4 +1,4 @@
-# SICP Exercise 1.4
+# SICP Exercise 1.4: Higher order functions
 
 Observe that our model of evaluation allows
 for combinations whose operators are compound expressions.

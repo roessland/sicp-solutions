@@ -1,4 +1,4 @@
-# SICP Exercise 1.17 and 1.18
+# SICP Exercise 1.17 and 1.18: Multiplication by repeated doubling
 
 Design a "fast multiplication algorithm" that uses repeated addition to
 multiply two integers in a logarithmic number of steps.

@@ -1,4 +1,4 @@
-# SICP Exercise 1.15
+# SICP Exercise 1.15: Sine computation
 
 The sine of an angle (specified in radians) can be
 computed by making use of the approximation

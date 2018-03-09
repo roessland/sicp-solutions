@@ -1,4 +1,4 @@
-# SICP Exercise 1.16
+# SICP Exercise 1.16: Iterative exponentiation by repeated squaring
 
 Design a procedure that evolves an iterative exponentiation
 process that uses success squaring and uses a logarithmic 

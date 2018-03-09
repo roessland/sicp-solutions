@@ -1,5 +1,11 @@
-#lang sicp
+# SICP Exercise 1.8: Cube root
 
+
+## Answer
+
+Using same strategy as 1.7.
+
+```scheme
 (define (cbrt-iter prev-guess guess x)
   (if (good-enough? prev-guess guess x)
       guess
@@ -24,3 +30,6 @@
 (test 125)
 (test 9999999999999995000999)
 (test 0.012345678910111213141516)
+```
+
+All tests pass with good precision.

@@ -1,4 +1,4 @@
-# SICP Exercise 1.6
+# SICP Exercise 1.6: Special forms -- if vs new-if
 
     (define (new-if predicate then-clause else-clause)
       (cond (predicate then-clause)
